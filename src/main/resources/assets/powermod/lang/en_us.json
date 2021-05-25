@@ -1,0 +1,10 @@
+{
+  "item.powermod.power": "Power",
+  "item.powermod.power_axe": "Power Axe",
+  "item.powermod.power_pickaxe": "Power Pickaxe",
+  "item.powermod.power_shovel": "Power Shovel",
+  "item.powermod.power_sword": "Power Sword",
+
+  "block.powermod.power_block": "Power Block",
+  "block.powermod.power_ore": "Power Ore"
+}

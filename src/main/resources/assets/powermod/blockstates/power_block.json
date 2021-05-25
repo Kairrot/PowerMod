@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "powermod:block/power_block"
+    }
+  }
+}

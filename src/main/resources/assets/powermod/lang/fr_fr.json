@@ -1,0 +1,10 @@
+{
+  "item.powermod.power": "Power",
+  "item.powermod.power_axe": "Hache de Power",
+  "item.powermod.power_pickaxe": "Pioche de Power",
+  "item.powermod.power_shovel": "Pelle de Power",
+  "item.powermod.power_sword": "Epée de Power",
+
+  "block.powermod.power_block": "Block de Power",
+  "block.powermod.power_ore": "Minerai de Power"
+}
